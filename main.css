@@ -1,0 +1,95 @@
+/* Main page style sheet */	
+
+/* Font */
+h1 {font-family: 'Nunito', sans-serif;}
+h2 {font-family: 'Nunito', sans-serif;}
+h3 {font-family: 'Nunito', sans-serif;}
+
+/* Header */
+#header {
+ 	background-color:black;
+ 	color:white;
+ 	text-align:center;
+ 	padding:5px;
+}
+
+/* About */
+#about {
+ 	background-color:white;
+ 	color:black;
+ 	text-align:center;
+}
+
+/* Me Picture */
+#me {
+ 	width:200px;
+ 	height:200px;
+ 	border-radius:55px;
+}
+
+/* circle pictures */
+.circle {
+	width:80px;
+	height:80px;
+	border-radius:80px;
+	margin: 2px;
+}
+
+/* Cat Bubble */
+#cat {
+	width:80px;
+	height:80px;
+	border-radius:80px;
+	box-shadow: 5px 8px 4px #888888;
+	margin: 2px;
+	border:1px solid #888888;
+}
+
+/* Resume link */
+#resume {
+	font-family:'Nunito',sans-serif;
+	font-size:18px;
+	font-weight: bold;
+	text-decoration:none;
+}
+
+/* Projects */
+#projects {
+ 	background-color:black;
+ 	color:white;
+ 	text-align:center;
+ 	border-radius: 20px;
+ 	padding: 2px;
+}
+
+/* link pic */
+.linkpic {
+	height:150px;
+	width:150px;
+	border-radius:20px;
+	padding:2px;
+}
+
+/* Other */
+#other {
+ 	background-color:white;
+ 	color:black;
+ 	text-align:center;
+ 	border-radius: 20px;
+}
+
+/* Contact */
+#contact {
+ 	background-color:black;
+ 	color:white;
+ 	text-align:center;
+ 	padding-top: 1px;
+ 	padding-bottom:15px;
+}
+
+/* Contact icons */
+.icon {
+	height:50px;
+	width:50px;
+	border-radius:50px;
+}
