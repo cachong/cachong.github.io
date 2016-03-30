@@ -1,0 +1,11 @@
+/* 373 Project style sheet */
+
+/* Font */
+h2 {font-family: 'Nunito', sans-serif;}
+h3 {font-family: 'Nunito', sans-serif;}
+
+#main{
+	background-color:white;
+	color:black;
+	text-align:center;
+}

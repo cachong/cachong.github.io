@@ -1,0 +1,13 @@
+/* 452 Project style sheet */
+
+/* Font */
+h1 {font-family: 'Nunito', sans-serif;}
+h2 {font-family: 'Nunito', sans-serif;}
+h3 {font-family: 'Nunito', sans-serif;}
+h5 {font-family: 'Nunito', sans-serif;}
+
+#main{
+	background-color:white;
+	color:black;
+	text-align:center;
+}
