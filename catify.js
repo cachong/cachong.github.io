@@ -8,11 +8,12 @@ function catify() {
 		document.getElementById('cat').src="./elephant.jpg";
 		document.getElementById('pepp').src="./cat5.png";
 		document.getElementById('452').src="./cat8.png";
-		document.getElementById('373').src="./cat7.png";
+		document.getElementById('373').src="./cat9.png";
 		document.getElementById('beagle').src="./cat4.png";
-		document.getElementById('inverter').src="./cat2.png";
+		document.getElementById('inverter').src="./cat7.png";
+		document.getElementById('singapore').src="./cat1.png";
 		document.getElementById('shanghai').src="./cat6.png";
-		document.getElementById('mail').src="./cat1.png";
+		document.getElementById('mail').src="./cat2.png";
 	}
 	else if (document.getElementById('cat').src.indexOf("elephant") > -1) {
 		document.getElementById('title').innerHTML="Caleigh Chong";
@@ -25,6 +26,7 @@ function catify() {
 		document.getElementById('373').src="./tankgame.jpg";
 		document.getElementById('beagle').src="./beaglebone.jpg";
 		document.getElementById('inverter').src="./inverter.png";
+		document.getElementById('singapore').src="./singapore.jpg";
 		document.getElementById('shanghai').src="./shanghai.jpg";
 		document.getElementById('mail').src="./email_icon.png";
 	}
